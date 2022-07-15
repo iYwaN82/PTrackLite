@@ -1,5 +1,6 @@
 from my_def import *
 
+Тест
 
 min_time_in = datetime.time(0, 5, 0)  # 5 минут
 
